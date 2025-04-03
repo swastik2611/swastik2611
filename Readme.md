@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swastik Singh</h1>
-<h3 align="center">A hard working and passionate B.Tech 4th year student</h3>
+<h3 align="center">A hard working and passionate Computer Science Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik2611&label=Profile%20views&color=0e75b6&style=flat" alt="swastik2611" /> </p>
 
